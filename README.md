@@ -1,7 +1,6 @@
 # classify.fastai:smirk:
 Classifier based on fastai
 
-[TOC]
 
 字符识别分类器-基于fastai进行构造
 
